@@ -16,6 +16,7 @@ public class javaTest {
 		System.out.println("12345");
 		System.out.println("----------------------");
 		
+		
 		//숫자연산
 		System.out.println("1 + 2");
 		System.out.println(1 + 2 );
